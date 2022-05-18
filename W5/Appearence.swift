@@ -1,0 +1,4 @@
+protocol Appearence {
+    
+    func Apperance()
+}
